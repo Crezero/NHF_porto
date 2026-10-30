@@ -7,7 +7,7 @@ const DATA = {
   socials: [
     { label: 'GitHub', url: 'https://github.com/Crezero' },
     { label: 'Instagram', url: 'https://www.instagram.com/crenovaz' },
-    { label: 'LinkedIn', url: '' },
+    { label: 'LinkedIn', url: 'https://www.linkedin.com/in/naufa-habibburahman-farros-0464ba421?utm_source=share_via&utm_content=profile&utm_medium=member_android' },
   ],
 
   // Skill levels: practiced | project (used in a project) | exploring
@@ -31,7 +31,7 @@ const DATA = {
   // status: Completed | In Progress | Concept | To be confirmed
   // image: preview screenshot, e.g. 'img/name.jpg' (16:9 works best). demoLabel: text for the demo link.
   projects: [
-    { title: 'Cita Rasa: Online Food Ordering', mark: 'CR', categories: ['Web Development', 'UI/UX'], status: 'To be confirmed',
+    { title: 'Cita Rasa: Online Food Ordering', mark: 'CR', categories: ['Web Development', 'UI/UX'], status: 'Completed',
       overview: 'An online food ordering interface for Cita Rasa, designed in Figma for desktop and phone in an orange-and-white palette.',
       purpose: 'Let customers browse a menu, order, and follow their delivery without friction, with the same experience on every screen size.',
       features: ['Food menu with prices and branch selection', 'Shopping cart and order form', 'Order tracking', 'Login and profile pages', 'Desktop and phone layouts'],
